@@ -26,7 +26,9 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 body ul{
     padding-bottom:20px;
-    
+    font-size: 1.4rem;
+    color:#421F7A;
+    text-decoration:none;
 
 }
 
@@ -51,10 +53,17 @@ body ul li a:active {
     text-align:center;
 }
 
-.center{
-    display:flex;
-    margin:auto;
-} 
+
+#firstgif{
+    position: relative;
+    top:-296px;
+    left:340px;
+    right:0px;
+    border:1px solid #c0c0c0;
+    padding:5px;
+    border-radius:6px;
+}
+
 
 
 
