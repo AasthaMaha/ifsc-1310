@@ -56,8 +56,8 @@ body ul li a:active {
 
 #firstgif{
     position: relative;
-    top:-610px;
-    left:340px;
+    top:-570px;
+    left:430px;
     right:0px;
     border:1px solid #c0c0c0;
     padding:5px;
@@ -78,11 +78,3 @@ body ul li a:active {
 .pe p href{
     color:black;
 }
-
-
-
-
-
-
-
-
