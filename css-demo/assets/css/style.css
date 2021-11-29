@@ -49,7 +49,7 @@ img{
 
 #additional-elements h3{
   border-left: 10px solid #733D3D;
-  padding:5px 10px;;
+  padding:5px 10px;
 }
 
 table{
@@ -260,87 +260,6 @@ blockquote cite{
   font-size:.6rem;
   padding-top:1rem;
 }
-
-
-
-
-
-/* Attribute Selectors */
-aside[role="complementary"]{
-  background-color:#F2DAC4;
-  color:#D9946C;
-  padding:2.2rem;
-}
-
-aside .container{
-  display:flex;
-  flex-direction:row;
-  justify-content:space-between;
-}
-
-aside article.widget{
-  width:45%;
-}
-
-aside a:link, aside a:visited{
-  color:#BF5D54;
-  display:block;
-  margin-top:10px;
-} 
-
-/*aside a.read-more:link {
-  color: white;
-  display: block;
-  margin-top: 10px;
-}*/
-
-aside article.widget footer{
-  display:none;
-}
-
-#colophon{
-  background:#733D3D;
-  color:white;
-}
-
-#colophon h6{
-  padding:20px;
-  margin:0;
-  text-align:center;
-  color:white;
-  font-size:.7rem;
-  text-transform:uppercase;
-  text-shadow:1px 1px black;
-}
-
-
-
-/* Media Query Example */
-
-@media screen and (max-width:585px) {
-  
- header.primary nav ul{
-  display:flex;
-  flex-direction:column; 
-  justify-content:space-around; 
-  margin:0 auto; 
-  width:60vw; 
-  }
-  
-  header.primary nav a{
-    display:block;
-  }
-  
-  header.primary nav li{
-    margin-bottom:10px;
-  }
-  
-
-  
-}
-
-
-
 
 
 
