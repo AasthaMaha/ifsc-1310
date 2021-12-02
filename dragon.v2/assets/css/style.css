@@ -164,7 +164,7 @@ section#content p{
   font-size: 1.2rem;
   font-family: 'Shippori Antique', sans-serif;
   text-align: justify;
-/*  padding:2rem; */
+  padding:1rem;
   
 }
 /* ------------- Articles --------------- */
@@ -247,22 +247,6 @@ section#articles h2 {
 #articles li {
   margin-bottom: 20px;
 }
-
-.gallery {
-	background-color: #0B1426;
-	width: 730px; 
-	margin-top: 40px;
-	margin-right: auto;
-	margin-left: auto;
-	border: 1px solid #999; 
-	height: 500px;
-	overflow: hidden; /*Avoids showing all of the images momentarily while JS loads */
-  border-radius: 4px; 
-}
-.gallery img {
-	margin: 15px;
-}
-
 
 /* ------------- Hero --------------- */
 

@@ -56,23 +56,31 @@ body ul li a:active {
 
 #firstgif{
     position: relative;
-    top:-570px;
-    left:430px;
+    top:-1080px;
+    left:370px;
     right:0px;
     border:1px solid #c0c0c0;
     padding:5px;
     border-radius:6px;
 }
 
-/* Thoughts on progressive enchancement */ 
+/* Thoughts on progressive enchancement & Dragon Project Revision and Reflection */ 
 
 .pe h2{
     text-align: left;
+    border-bottom: 1px solid #421F7A;
+    font-size: 1.5rem;
 }
 
 .pe p{
     text-align: justify;
     font-family: 'Lobster Two', cursive;
+    font-size: 1.3rem;
+    padding-right: 30px;
+    padding-left:30px;
+    padding-bottom:auto;
+    
+    font-family: 'Mukta', sans-serif;
 }
 
 .pe p href{
