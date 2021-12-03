@@ -248,21 +248,6 @@ section#articles h2 {
   margin-bottom: 20px;
 }
 
-.gallery {
-	background-color: #0B1426;
-	width: 730px; 
-	margin-top: 40px;
-	margin-right: auto;
-	margin-left: auto;
-	border: 1px solid #999; 
-	height: 500px;
-	overflow: hidden; /*Avoids showing all of the images momentarily while JS loads */
-  border-radius: 4px; 
-}
-.gallery img {
-	margin: 15px;
-}
-
 
 /* ------------- Hero --------------- */
 
@@ -397,6 +382,7 @@ footer#colophon {
 
 /* FAQ */
 
+
 .page p{
   font-family: 'Shippori Antique', sans-serif;
 }
@@ -412,7 +398,7 @@ details > summary > * {
 }
 
 details > div {
-  border: 2px solid #fdb;
+  border: 2px solid #ABC5D8;
   margin-top: 0;
   padding: 1rem;
 }
@@ -460,4 +446,5 @@ table th{
   padding:10px;
   
 }
+
 

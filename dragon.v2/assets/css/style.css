@@ -381,6 +381,10 @@ footer#colophon {
 
 /* FAQ */
 
+.page {
+  padding:5px;
+}
+
 .page p{
   font-family: 'Shippori Antique', sans-serif;
 }
@@ -396,7 +400,7 @@ details > summary > * {
 }
 
 details > div {
-  border: 2px solid #fdb;
+  border: 2px solid #ABC5D8;
   margin-top: 0;
   padding: 1rem;
 }
@@ -443,5 +447,11 @@ table th{
   width:33%;
   padding:10px;
   
+}
+
+/* Contact */
+
+#wufoo-z1fg0fnz1p6qlr7 {
+  padding:55px;
 }
 
